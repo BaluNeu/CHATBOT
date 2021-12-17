@@ -1,0 +1,13 @@
+When creating a new chatbot, you’ll need to define intents in which the bot will respond to. Being able to define intents will be important because it will allow any user requests and utterances to be grouped together and direct those common requests to performing and delivering the same action or result.
+
+The most common terminology when chatbots are being planned for development are utterances, intents, and entities. Utterances is what a user will say or type to a chatbot. Intent is what the user is intending to have the chatbot do. An entity are pieces of the utterances (almost like metadata) that are generally nouns that give more meaning/definition to allow the chatbot to provide the appropriate action.
+
+How Do Intent Based Chatbots Work?
+Intent based chatbots work by defining a list of intents that a user of the chatbot would complete. Based on these intents, the backend system will use algorithms to calculate and compare the user request and the training examples provided be the defined user intents. The comparison results in a confidence score (represented as a decimal or percentage). Development teams can utilize a threshold to determine whether the intent matches the predefined intent or would be categorized as an unknown intent.
+
+https://chatbotbusinessframework.com/33-common-chatbot-intents/
+
+WordNet is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (synsets), each expressing a distinct concept. Synsets are interlinked by means of conceptual-semantic and lexical relations.
+
+1) Learning rate changed to 0.001, drop_out = 0.25, epochs = 300
+  
